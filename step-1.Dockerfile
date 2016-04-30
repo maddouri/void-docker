@@ -2,5 +2,5 @@ FROM maddouri/void-docker:init
 
 MAINTAINER Mohamed-Yassine MADDOURI
 
-ENTRYPOINT '/bin/sh'
+ENTRYPOINT '/bin/bash'
 
